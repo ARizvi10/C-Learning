@@ -1,0 +1,16 @@
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.csproj.AssemblyReference.cache
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.AssemblyInfoInputs.cache
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.AssemblyInfo.cs
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.csproj.CoreCompileInputs.cache
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.exe
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.deps.json
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.runtimeconfig.json
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.runtimeconfig.dev.json
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.dll
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\ref\C-Learning.dll
+C:\Users\arshain\Desktop\C-Learning\bin\Debug\net5.0\C-Learning.pdb
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.dll
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\ref\C-Learning.dll
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.pdb
+C:\Users\arshain\Desktop\C-Learning\obj\Debug\net5.0\C-Learning.genruntimeconfig.cache
